@@ -16,9 +16,9 @@ I develop web products, iOS apps, Android apps, and custom software. I also impl
 
 ## Android
 
-**[Eldorado](https://github.com/DhananiSneh/eldorado)** — money and discipline, offline, in rupees. No account. No ads.
+**[Afterdark](https://github.com/DhananiSneh/afterdark)** — the phone is the hour. Drag time and the screen moves from dusk to dawn.
 
-[Open Eldorado](https://dhananisneh.github.io/eldorado/)
+[Open Afterdark](https://dhananisneh.github.io/afterdark/)
 
 ## Custom
 
