@@ -2,21 +2,33 @@
 
 I develop web products, iOS apps, Android apps, and custom software. I also implement quantum algorithms.
 
-## What I build
+## Web
 
-- **Web** — products that run in the browser
-- **iOS** — applications for iPhone
-- **Android** — applications for Android
-- **Custom** — software shaped to a specific job
-- **Quantum algorithms** — the core algorithms, written so they can be read and run
+**[FXNEXUS](https://github.com/DhananiSneh/fxnex-web)** — a brokerage site with a globe you can turn.
 
-## Public work
+[Open it](https://dhananisneh.github.io/fxnex-web/) · Live site [fxnex.us](https://fxnex.us)
 
-**[Signet](https://github.com/DhananiSneh/signet)** — caller ID for iPhone. Know who is calling, and why, before you answer. Contacts stay on the device.
+## iOS
+
+**[Signet](https://github.com/DhananiSneh/signet)** — know the call before you answer. Caller ID for iPhone. Contacts stay on the device.
 
 [Open Signet](https://dhananisneh.github.io/signet/)
 
-**[Quantum algorithms](https://github.com/DhananiSneh/quantum-algorithms)** — Deutsch–Jozsa, Bernstein–Vazirani, and Grover on a small simulator. No quantum computer required.
+## Android
+
+**[Eldorado](https://github.com/DhananiSneh/eldorado)** — money and discipline, offline, in rupees. No account. No ads.
+
+[Open Eldorado](https://dhananisneh.github.io/eldorado/)
+
+## Custom
+
+**[Forex Manager](https://github.com/DhananiSneh/forex-manager)** — a CRM built for a brokerage. One client moves across the whole desk.
+
+[Open the CRM](https://dhananisneh.github.io/forex-manager/)
+
+## Quantum algorithms
+
+**[Quantum algorithms](https://github.com/DhananiSneh/quantum-algorithms)** — Deutsch–Jozsa, Bernstein–Vazirani, and Grover. No quantum computer required.
 
 ## Contact
 
