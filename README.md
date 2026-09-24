@@ -4,9 +4,9 @@ I develop web products, iOS apps, Android apps, and custom software. I also impl
 
 ## Web
 
-**[FXNEXUS](https://github.com/DhananiSneh/fxnex-web)** — a brokerage site with a globe you can turn.
+**[LoomDesk](https://github.com/DhananiSneh/loomdesk)** — a mill desk on the web. Assign the beam and the looms light up.
 
-[Open it](https://dhananisneh.github.io/fxnex-web/) · Live site [fxnex.us](https://fxnex.us)
+[Open LoomDesk](https://dhananisneh.github.io/loomdesk/)
 
 ## iOS
 
@@ -22,9 +22,9 @@ I develop web products, iOS apps, Android apps, and custom software. I also impl
 
 ## Custom
 
-**[Forex Manager](https://github.com/DhananiSneh/forex-manager)** — a CRM built for a brokerage. One client moves across the whole desk.
+**[Custom CRM](https://github.com/DhananiSneh/custom-crm)** — a relationship desk shaped for one business. One fictional client crosses it.
 
-[Open the CRM](https://dhananisneh.github.io/forex-manager/)
+[Open the CRM](https://dhananisneh.github.io/custom-crm/)
 
 ## Quantum algorithms
 
