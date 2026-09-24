@@ -1,34 +1,18 @@
 # Sneh Dhanani
 
-I develop web products, iOS apps, Android apps, and custom software. I also implement quantum algorithms.
+I build products for the web, iPhone, and Android, and I take on custom software. I also implement quantum algorithms.
 
-## Web
+The work below is public. Open any of it.
 
-**[LoomDesk](https://github.com/DhananiSneh/loomdesk)** — a mill desk on the web. Assign the beam and the looms light up.
+## Work
 
-[Open LoomDesk](https://dhananisneh.github.io/loomdesk/)
-
-## iOS
-
-**[Signet](https://github.com/DhananiSneh/signet)** — know the call before you answer. Caller ID for iPhone. Contacts stay on the device.
-
-[Open Signet](https://dhananisneh.github.io/signet/)
-
-## Android
-
-**[Afterdark](https://github.com/DhananiSneh/afterdark)** — the phone is the hour. Drag time and the screen moves from dusk to dawn.
-
-[Open Afterdark](https://dhananisneh.github.io/afterdark/)
-
-## Custom
-
-**[Custom CRM](https://github.com/DhananiSneh/custom-crm)** — a relationship desk shaped for one business. One fictional client crosses it.
-
-[Open the CRM](https://dhananisneh.github.io/custom-crm/)
-
-## Quantum algorithms
-
-**[Quantum algorithms](https://github.com/DhananiSneh/quantum-algorithms)** — Deutsch–Jozsa, Bernstein–Vazirani, and Grover. No quantum computer required.
+| | Project | What it does |
+| --- | --- | --- |
+| Web | [LoomDesk](https://github.com/DhananiSneh/loomdesk) | A mill desk. Assign the beam and the looms light up. [Open](https://dhananisneh.github.io/loomdesk/) |
+| iOS | [Signet](https://github.com/DhananiSneh/signet) | Caller ID for iPhone. Know who is calling, and why, before you answer. [Open](https://dhananisneh.github.io/signet/) |
+| Android | [Afterdark](https://github.com/DhananiSneh/afterdark) | The phone is the hour. Drag time from dusk to dawn. [Open](https://dhananisneh.github.io/afterdark/) |
+| Custom | [CRM](https://github.com/DhananiSneh/custom-crm) | A relationship desk shaped for one business. [Open](https://dhananisneh.github.io/custom-crm/) |
+| Quantum | [Algorithms](https://github.com/DhananiSneh/quantum-algorithms) | Deutsch–Jozsa, Bernstein–Vazirani, and Grover. No quantum computer required. |
 
 ## Contact
 
