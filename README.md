@@ -1,14 +1,22 @@
 # Sneh Dhanani
 
-I build software products, and I stay with one until it is real.
+I develop web products, iOS apps, Android apps, and custom software. I also implement quantum algorithms.
 
-## Now
+## What I build
 
-**[Signet](https://github.com/DhananiSneh/signet)** — know the call before you answer.
+- **Web** — products that run in the browser
+- **iOS** — applications for iPhone
+- **Android** — applications for Android
+- **Custom** — software shaped to a specific job
+- **Quantum algorithms** — the core algorithms, written so they can be read and run
 
-Caller ID for iPhone. Signet shows who is calling, what they want, and whether the call is a scam. Contacts stay on the device. No ads.
+## Public work
+
+**[Signet](https://github.com/DhananiSneh/signet)** — caller ID for iPhone. Know who is calling, and why, before you answer. Contacts stay on the device.
 
 [Open Signet](https://dhananisneh.github.io/signet/)
+
+**[Quantum algorithms](https://github.com/DhananiSneh/quantum-algorithms)** — Deutsch–Jozsa, Bernstein–Vazirani, and Grover on a small simulator. No quantum computer required.
 
 ## Contact
 
