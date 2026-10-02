@@ -11,6 +11,7 @@ I build products for the web, iPhone, and Android, and I take on custom software
 | Android | [Afterdark](https://github.com/DhananiSneh/afterdark) | A Kotlin app. Drag the hour and the screen moves from dusk to dawn. [Open](https://dhananisneh.github.io/afterdark/) |
 | Custom | [CRM](https://github.com/DhananiSneh/custom-crm) | Clients move through Hello, Fit, Build, and Kept. Records stay after a refresh. [Open](https://dhananisneh.github.io/custom-crm/) |
 | Quantum | [Algorithms](https://github.com/DhananiSneh/quantum-algorithms) | Deutsch–Jozsa, Bernstein–Vazirani, and Grover, with tests. |
+| Company | [Sole](https://github.com/DhananiSneh/sole) | Five agent teams take a lead through an offer, a page, a review, and an invoice. [Open](https://dhananisneh.github.io/sole/) |
 
 ## Contact
 
